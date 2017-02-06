@@ -8,10 +8,11 @@
   },
   "dependencies": {
     "html-webpack-plugin": "^2.26.0",
+    "path": "^0.12.7",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^2.3.0"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
