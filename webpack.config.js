@@ -10,6 +10,8 @@ module.exports = {
   entry: './client/index.js',
   output: {
     path: path.resolve('dist'),
+    // below line only works for webpack 1.0
+    // path: './dist', 
     filename: 'index_bundle.js'
   },
   module: {
